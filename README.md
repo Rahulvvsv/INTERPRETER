@@ -4,4 +4,6 @@ This is not the final implementation just went with the flow will be optimized i
 
 Work in progress
 
+Look out for version 3 , version 2 is bad code and you will definitley judge me after looking at it
+
 Please dont judge my c skills ;(   :)
